@@ -1,0 +1,27 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v171)
+"   /root/holbertonschool-web_back_end/0x06-Basic_authentication/SimpleAPI/venv/bin
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+pip*
+pip-3.10*
+pip3*
+pip3.10*
+wheel*
+wheel-3.10*
+wheel3*
+wheel3.10*
+activate
+activate.csh
+activate.fish
+activate.nu
+activate.ps1
+activate_this.py
+deactivate.nu
+python3.10@	 --> /usr/bin/python3.10
+python3@	 --> /usr/bin/python3.10
+python@	 --> /usr/bin/python3.10
